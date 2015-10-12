@@ -1,6 +1,6 @@
 ### Type Theory Study Group 2015 (on Google Hangouts)
 
-Resources for the proposed type theory study group. Please contribute.
+Resources for the proposed type theory study group. Please discuss/contribute.
 
 #### Proposed List of Topics
 
