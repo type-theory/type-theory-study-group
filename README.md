@@ -8,9 +8,8 @@ Resources for the proposed type theory study group. Please discuss/contribute.
 * The Simply Typed Lambda Calculus / Progress and Preservation
 * Propositions as Types / Proofs as Programs
 * System F / Parametricity
-* Martin-Löf's Intensional Type Theory / Constructive Mathematics and Computer Programming
+* Martin-Löf's Extensional Type Theory / Constructive Mathematics and Computer Programming
 * Identity Types / Proofs of Equality in Martin-Löf's Intensional Type Theory
-* Martin-Löf's Original Extensional Type Theory / Undecidability of the Equality Reflection Rule
 * Topological Spaces as Types / Points as Programs
 * Intensional Proofs of Equality as Paths between Spaces
 * Proofs of Equality of Equalities as Synthetic Homotopies
