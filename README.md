@@ -1,8 +1,26 @@
-### Type Theory Study Group 2015 (on Google Hangouts)
+### Type Theory Study Group 2015
 
-Resources for the proposed type theory study group. Please discuss/contribute.
+An online study group, open to all, dedicated to learning Type Theory.
 
-#### Proposed List of Topics
+The initial plan is to read Bob Harper's Practical Foundations of Programming Languages 2nd Edition.
+
+* PFPF, Practical Foundations of Programming Languages, Robert Harper [Online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
+
+The first meeting will be on the Friday, 13-Nov-2015. Please read chapters 1 and 2 of PFPL (2nd Edition).
+
+Connect with us:
+
+  * [Type Theory Study Group](https://groups.google.com/forum/#!forum/type-theory-study-group) on Google Groups
+  * [##type-theory](https://www.irccloud.com/#!/ircs://irc.freenode.net:6697/%23%23typetheory) on Freenode.net IRC
+  * [@type_theory](https://twitter.com/type_theory) on Twitter
+
+
+#### Other resources
+
+* https://github.com/type-theory/learn-tt
+
+
+#### Proposed Future Topics
 
 * The Untyped Lambda Calculus / Operational Semantics
 * The Simply Typed Lambda Calculus / Progress and Preservation
@@ -19,3 +37,4 @@ Resources for the proposed type theory study group. Please discuss/contribute.
 * Martin-Löf's (Equational) Logical Framework and the Monomorphic Theory of Sets
 * The Edinburgh Logical Framework / "Mechanizing Metatheory in a Logical Framework"
 * Categorical Semantics of Type Theories / Connection to Category Theory Study Group
+
