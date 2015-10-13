@@ -16,5 +16,6 @@ Resources for the proposed type theory study group. Please discuss/contribute.
 * Homotopy Type Theory / Higher Inductive Types / Univalence
 * Canonicity for Homotopy Type Theory / Current Issues
 * Special Cases of Homotopy Type Theory with Canonicity / Cubical Type Theories
-* Martin-Löf's Logical Framework / "Mechanizing Metatheory in a Logical Framework"
+* Martin-Löf's (Equational) Logical Framework and the Monomorphic Theory of Sets
+* The Edinburgh Logical Framework / "Mechanizing Metatheory in a Logical Framework"
 * Categorical Semantics of Type Theories / Connection to Category Theory Study Group
