@@ -2,11 +2,9 @@
 
 An online study group, open to all, dedicated to learning Type Theory.
 
-The initial plan is to read Bob Harper's Practical Foundations of Programming Languages 2nd Edition.
+The initial plan is to read Bob Harper's, Practical Foundations of Programming Languages, 2nd Edition. This book is only available as an [online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf).
 
-* PFPF, Practical Foundations of Programming Languages, Robert Harper [Online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
-
-The first meeting will be on the Friday, 13-Nov-2015. Please read chapters 1 and 2 of PFPL (2nd Edition).
+The first meeting will be on the Friday, 13-Nov-2015. Please read chapters 1 and 2.
 
 Connect with us:
 
