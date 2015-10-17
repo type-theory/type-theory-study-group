@@ -9,7 +9,7 @@ The first meeting will be on the Friday, 13-Nov-2015. Please read chapters 1 and
 Connect with us:
 
   * [Type Theory Study Group](https://groups.google.com/forum/#!forum/type-theory-study-group) on Google Groups
-  * [##type-theory](https://www.irccloud.com/#!/ircs://irc.freenode.net:6697/%23%23typetheory) on Freenode.net IRC
+  * [##typetheory](https://www.irccloud.com/#!/ircs://irc.freenode.net:6697/%23%23typetheory) on Freenode.net IRC
   * [@type_theory](https://twitter.com/type_theory) on Twitter
 
 
