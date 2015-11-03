@@ -17,6 +17,9 @@ Connect with us:
 
 * https://github.com/type-theory/learn-tt
 
+#### Local chapters
+
+* [PLATYPUS](https://github.com/CommBank/PLATYPUS) (Programming Languages And Types - Yet Perfectly Understandable - in Sydney) meets weekly in Sydney, Australia.
 
 #### Proposed Future Topics
 
