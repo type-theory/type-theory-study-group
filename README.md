@@ -13,11 +13,11 @@ Connect with us:
   * [@type_theory](https://twitter.com/type_theory) on Twitter
 
 
-#### Other resources
+#### Other Resources
 
 * https://github.com/type-theory/learn-tt
 
-#### Local chapters
+#### Local Chapters
 
 * [PLATYPUS](https://github.com/CommBank/PLATYPUS) (Programming Languages And Types - Yet Perfectly Understandable - in Sydney) meets weekly in Sydney, Australia.
 
