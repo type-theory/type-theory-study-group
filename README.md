@@ -14,6 +14,8 @@ It turns out that this idea provides benefits in mathematics and programming lan
 
 Studying type theory is to understand the techniques of types and can be a foundation for studying mathematical foundations in type theory or for better understanding (or even creating) programming languages which are amenable to and analyzed by systems of types. It also has a transformative effect on understanding formal languages, on working within them, and on wielding logics. 
 
+-- Joseph Abrahamson
+
 ##### Next meeting
 
 - When: November 13th, 6 pm EST
