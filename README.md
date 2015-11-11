@@ -23,7 +23,7 @@ Connect with us:
 
 #### Proposed Future Topics
 
-* Abstract
+* Abstract Syntax Trees / Abstract Binding Trees
 * The Untyped Lambda Calculus / Operational Semantics
 * The Simply Typed Lambda Calculus / Progress and Preservation
 * Propositions as Types / Proofs as Programs
