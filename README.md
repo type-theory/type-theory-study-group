@@ -1,6 +1,5 @@
 ### Type Theory Study Group 2015
 
-
 ##### Overview
 
 An online study group, open to all, dedicated to learning Type Theory.
@@ -15,9 +14,12 @@ It turns out that this idea provides benefits in mathematics and programming lan
 
 Studying type theory is to understand the techniques of types and can be a foundation for studying mathematical foundations in type theory or for better understanding (or even creating) programming languages which are amenable to and analyzed by systems of types. It also has a transformative effect on understanding formal languages, on working within them, and on wielding logics. 
 
-##### First meeting
+##### Next meeting
 
-The first meeting will take place on Friday, 13-Nov-2015 @ 6pm EST over Google Hangouts. Please read chapters 1 and 2.
+- When: November 13th, 6 pm EST
+- Where: Google Hangouts
+- Material: Ch 1 and 2 of PFPL
+- Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
 
 ##### Connect with us
 
