@@ -19,7 +19,7 @@ Studying type theory is to understand the techniques of types and can be a found
 ##### Next meeting
 
 - When: November 13th, 6 pm EST
-- Where: Google Hangouts
+- Where: [Google Hangouts](https://plus.google.com/hangouts/_/jspha.com/me?authuser=0)
 - Material: Ch 1 and 2 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
 - Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
 
