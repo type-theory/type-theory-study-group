@@ -20,7 +20,7 @@ Studying type theory is to understand the techniques of types and can be a found
 
 - When: November 13th, 6 pm EST
 - Where: Google Hangouts
-- Material: Ch 1 and 2 of PFPL
+- Material: Ch 1 and 2 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
 - Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
 
 ##### Connect with us
