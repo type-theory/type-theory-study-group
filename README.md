@@ -6,22 +6,34 @@ An online study group, open to all, dedicated to learning Type Theory.
 
 The initial plan is to read Bob Harper's, Practical Foundations of Programming Languages, 2nd Edition. This book is only available as an [online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf).
 
+The Type Theory Study Group has a [Code of Conduct](https://github.com/type-theory/type-theory-study-group-2015/blob/master/code_of_conduct.md). Please contact one of the organizers if anyone is not following it. Be good to each other and to the community! 
+
 ##### Why learn type theory?
 
 Formal languages, ways of writing down symbols which hold together in such a way to embody meaning, sit at the core of much of mathematics, programming, and language broadly. To give formal language a meaning is to translate the symbols and their collections into meaning within a domain such that the laws of the language reflect meaning in the domain. A type [theory] is a formal language in its own right, but one designed to reflect meaning from the domain of other formal languages (statically) and, therefore, in studying them we can learn a lot about what governs formal languages generally.
 
 It turns out that this idea provides benefits in mathematics and programming languages. In mathematics, the technique of types has given rise to several *alternative foundations to mathematics* of interest for philosophical and aesthetic reasons, if nothing else. In programming languages, the technique of types gives rise to several (but not all) forms of *static analysis of code fragments* useful to describe and guide the logic of the program under constructions.
 
-Studying type theory is to understand the techniques of types and can be a foundation for studying mathematical foundations in type theory or for better understanding (or even creating) programming languages which are amenable to and analyzed by systems of types. It also has a transformative effect on understanding formal languages, on working within them, and on wielding logics. 
+Studying type theory is to understand the techniques of types and can be a foundation for studying mathematical foundations in type theory or for better understanding (or even creating) programming languages which are amenable to and analyzed by systems of types. It also has a transformative effect on understanding formal languages, on working within them, and on wielding logics.
 
 -- Joseph Abrahamson
 
 ##### Next meeting
 
+- To be announced. Stay tuned!
+
+##### Past Meetings
+
+###### Meeting 1
+
 - When: November 13th, 6 pm EST
-- Where: [Google Hangouts](https://plus.google.com/hangouts/_/jspha.com/me?authuser=0)
+- Where: Hangouts on Air
 - Material: Ch 1 and 2 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
 - Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
+- Notetakers: Ilan Godik
+- [Video](https://www.youtube.com/watch?v=5JuOjqCZZTU)
+- [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-notes.pdf)
+- [Questions](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-questions.md)
 
 ##### Connect with us
 
