@@ -1,6 +1,6 @@
 # Conferences and Events
 
-A list of conferences and events that may be of interest to type theory enthusiasts.
+A list of conferences and events that may be of interest to type theory enthusiasts. Please contribute!
 
 * [LambdaConf](http://www.degoesconsulting.com/lambdaconf-2015/)
 * [Oregan Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
