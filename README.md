@@ -29,8 +29,11 @@ Studying type theory is to understand the techniques of types and can be a found
 - When: November 13th, 6 pm EST
 - Where: Hangouts on Air
 - Material: Ch 1 and 2 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
-- Notetakers: Ilan Godik
 - Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
+- Notetakers: Ilan Godik
+- [Video](https://www.youtube.com/watch?v=5JuOjqCZZTU)
+- [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-notes.pdf)
+- [Questions](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-1-oBuYSKYx4CV)
 
 
 ##### Connect with us
