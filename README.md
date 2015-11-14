@@ -33,8 +33,7 @@ Studying type theory is to understand the techniques of types and can be a found
 - Notetakers: Ilan Godik
 - [Video](https://www.youtube.com/watch?v=5JuOjqCZZTU)
 - [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-notes.pdf)
-- [Questions](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-1-oBuYSKYx4CV)
-
+- [Questions](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-questions.md)
 
 ##### Connect with us
 
