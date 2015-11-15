@@ -4,7 +4,7 @@
 
 An online study group, open to all, dedicated to learning Type Theory.
 
-The initial plan is to read Bob Harper's, Practical Foundations of Programming Languages, 2nd Edition. This book is only available as an [online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf).
+The initial plan is to read Bob Harper's Practical Foundations of Programming Languages (2nd Edition). This book is only available as an [online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf).
 
 The Type Theory Study Group has a [code of conduct](https://github.com/type-theory/type-theory-study-group-2015/blob/master/code-of-conduct.md). Please contact one of the organizers if anyone is not following it. Be good to each other and to the community!
 
@@ -21,11 +21,6 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 ##### Local study groups
 
 * [Sydney Type Theory](http://www.meetup.com/Sydney-Type-Theory/)
-
-##### Other resources
-
-* [Learn Type Theory](https://github.com/type-theory/learn-tt)
-* [So You Want to Learn Type Theory](http://purelytheoretical.com/sywtltt.html)
 
 ##### Proposed future topics
 
@@ -51,3 +46,8 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 * Martin-Löf's (Equational) Logical Framework and the Monomorphic Theory of Sets
 * The Edinburgh Logical Framework / "Mechanizing Metatheory in a Logical Framework"
 * Categorical Semantics of Type Theories / Connection to Category Theory Study Group
+
+##### Other resources
+
+* [Learn Type Theory](https://github.com/type-theory/learn-tt)
+* [So You Want to Learn Type Theory](http://purelytheoretical.com/sywtltt.html)
