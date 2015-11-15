@@ -1,4 +1,4 @@
-### Why learn Type Theory?
+### Why Learn Type Theory?
 
 Formal languages, ways of writing down symbols which hold together in such a way to embody meaning, sit at the core of much of mathematics, programming, and language broadly. To give formal language a meaning is to translate the symbols and their collections into meaning within a domain such that the laws of the language reflect meaning in the domain. A type [theory] is a formal language in its own right, but one designed to reflect meaning from the domain of other formal languages (statically) and, therefore, in studying them we can learn a lot about what governs formal languages generally.
 
