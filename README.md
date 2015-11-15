@@ -12,23 +12,6 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 
 [Why learn type theory?](why-learn-type-theory.md)
 
-##### Next meeting
-
-- To be announced. Stay tuned!
-
-##### Past Meetings
-
-###### Meeting 1
-
-- When: November 13th, 6 pm EST
-- Where: Hangouts on Air
-- Material: Ch 1 and 2 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
-- Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
-- Notetakers: Ilan Godik
-- [Video](https://www.youtube.com/watch?v=5JuOjqCZZTU)
-- [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-notes.pdf)
-- [Questions](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-questions.md)
-
 ##### Connect with us
 
   * [Type Theory Study Group](https://groups.google.com/forum/#!forum/type-theory-study-group) on Google Groups
