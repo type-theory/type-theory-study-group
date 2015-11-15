@@ -14,6 +14,6 @@
 - Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
 - Notetakers: Ilan Godik
 - [Video](https://www.youtube.com/watch?v=5JuOjqCZZTU)
-- [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-notes.pdf)
-- [Questions](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-questions.md)
+- [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/meeting-1-notes.pdf)
+- [Questions](https://github.com/type-theory/type-theory-study-group-2015/blob/master/meeting-1-questions.md)
 - [Hackpad](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-1-oBuYSKYx4CV)
