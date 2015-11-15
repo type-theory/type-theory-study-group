@@ -58,7 +58,6 @@ Studying type theory is to understand the techniques of types and can be a found
 * The Untyped Lambda Calculus / Operational Semantics
 * The Simply Typed Lambda Calculus / Progress and Preservation
 * Type Inference / Bidirectional Typechecking for the Simply Typed Lambda Calculus
-* Constructive Propositional Logic
 * Propositions as Types / Proofs as Programs
 * Simple Type Theory / Extensions to the Simply Typed Lambda Calculus
 * System T / Primitive Recursion
