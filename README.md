@@ -37,7 +37,7 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 
 ##### Local study groups
 
-* [PLATYPUS](https://github.com/CommBank/PLATYPUS) (Programming Languages And Types - Yet Perfectly Understandable - in Sydney) meets weekly in Sydney, Australia.
+* [Sydney Type Theory](http://www.meetup.com/Sydney-Type-Theory/)
 
 ##### Other resources
 
