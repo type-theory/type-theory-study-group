@@ -62,7 +62,7 @@ Studying type theory is to understand the techniques of types and can be a found
 * System T / Primitive Recursion
 * Plotkin's PCF / General Recursion
 * System F / Parametricity
-* System F-omega
+* System F-omega / Type Operators
 * Martin-Löf's Extensional Type Theory / Constructive Mathematics and Computer Programming
 * Extensions to Extensional Type Theory / Quotient Types, Set Types and Partial Equivalence Relations on Types
 * Identity Types / Proofs of Equality in Martin-Löf's Intensional Type Theory
@@ -72,7 +72,6 @@ Studying type theory is to understand the techniques of types and can be a found
 * Homotopy Type Theory / Higher Inductive Types / Univalence
 * Canonicity for Homotopy Type Theory / Current Issues
 * Higher Dimensional Type Theories with Canonicity / Bob Harper & Dan Licata's Two Dimensional Type Theory
-* Cubical Type Theories
 * Martin-Löf's (Equational) Logical Framework and the Monomorphic Theory of Sets
 * The Edinburgh Logical Framework / "Mechanizing Metatheory in a Logical Framework"
 * Categorical Semantics of Type Theories / Connection to Category Theory Study Group
