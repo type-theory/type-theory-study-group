@@ -22,6 +22,11 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 
 * [Sydney Type Theory](http://www.meetup.com/Sydney-Type-Theory/)
 
+##### Other resources
+
+* [Learn Type Theory](https://github.com/type-theory/learn-tt)
+* [So You Want to Learn Type Theory](http://purelytheoretical.com/sywtltt.html)
+
 ##### Proposed future topics
 
 * Abstract Syntax Trees / Abstract Binding Trees
@@ -46,8 +51,3 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 * Martin-Löf's (Equational) Logical Framework and the Monomorphic Theory of Sets
 * The Edinburgh Logical Framework / "Mechanizing Metatheory in a Logical Framework"
 * Categorical Semantics of Type Theories / Connection to Category Theory Study Group
-
-##### Other resources
-
-* [Learn Type Theory](https://github.com/type-theory/learn-tt)
-* [So You Want to Learn Type Theory](http://purelytheoretical.com/sywtltt.html)
