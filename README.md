@@ -6,9 +6,9 @@ An online study group, open to all, dedicated to learning Type Theory.
 
 The initial plan is to read Bob Harper's, Practical Foundations of Programming Languages, 2nd Edition. This book is only available as an [online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf).
 
-The Type Theory Study Group has a [Code of Conduct](https://github.com/type-theory/type-theory-study-group-2015/blob/master/code-of-conduct.md). Please contact one of the organizers if anyone is not following it. Be good to each other and to the community!
+The Type Theory Study Group has a [code of conduct](https://github.com/type-theory/type-theory-study-group-2015/blob/master/code-of-conduct.md). Please contact one of the organizers if anyone is not following it. Be good to each other and to the community!
 
-There is a  [Syllabus](https://github.com/type-theory/type-theory-study-group-2015/blob/master/syllabus.md) with dates for the chapters we're reading. 
+There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-2015/blob/master/syllabus.md) with dates for the chapters we're reading. 
 
 [Why learn type theory?](why-learn-type-theory.md)
 
