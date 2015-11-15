@@ -4,30 +4,13 @@
 
 An online study group, open to all, dedicated to learning Type Theory.
 
-The initial plan is to read Bob Harper's, Practical Foundations of Programming Languages, 2nd Edition. This book is only available as an [online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf).
+The initial plan is to read Bob Harper's Practical Foundations of Programming Languages (2nd Edition). This book is only available as an [online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf).
 
-The Type Theory Study Group has a [Code of Conduct](https://github.com/type-theory/type-theory-study-group-2015/blob/master/code-of-conduct.md). Please contact one of the organizers if anyone is not following it. Be good to each other and to the community!
+The Type Theory Study Group has a [code of conduct](https://github.com/type-theory/type-theory-study-group-2015/blob/master/code-of-conduct.md). Please contact one of the organizers if anyone is not following it. Be good to each other and to the community!
 
-There is a  [Syllabus](https://github.com/type-theory/type-theory-study-group-2015/blob/master/syllabus.md) with dates for the chapters we're reading. 
+There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-2015/blob/master/syllabus.md) with dates for the chapters we're reading. 
 
-[Why learn type theory?](type-theory-study-group.md)
-
-##### Next meeting
-
-- To be announced. Stay tuned!
-
-##### Past Meetings
-
-###### Meeting 1
-
-- When: November 13th, 6 pm EST
-- Where: Hangouts on Air
-- Material: Ch 1 and 2 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
-- Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
-- Notetakers: Ilan Godik
-- [Video](https://www.youtube.com/watch?v=5JuOjqCZZTU)
-- [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-notes.pdf)
-- [Questions](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-questions.md)
+[Why learn type theory?](why-learn-type-theory.md)
 
 ##### Connect with us
 
@@ -37,7 +20,7 @@ There is a  [Syllabus](https://github.com/type-theory/type-theory-study-group-20
 
 ##### Local study groups
 
-* [PLATYPUS](https://github.com/CommBank/PLATYPUS) (Programming Languages And Types - Yet Perfectly Understandable - in Sydney) meets weekly in Sydney, Australia.
+* [Sydney Type Theory](http://www.meetup.com/Sydney-Type-Theory/)
 
 ##### Other resources
 
