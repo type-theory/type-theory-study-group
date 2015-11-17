@@ -29,6 +29,7 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 
 ##### Proposed future topics
 
+* Judgments / Meaning Explanations
 * Abstract Syntax Trees / Abstract Binding Trees
 * The Untyped Lambda Calculus / Operational Semantics
 * The Simply Typed Lambda Calculus / Progress and Preservation
