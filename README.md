@@ -42,6 +42,7 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 * System F-omega / Type Operators
 * Martin-Löf's Extensional Type Theory / Constructive Mathematics and Computer Programming
 * Extensions to Extensional Type Theory / Quotient Types, Set Types and Partial Equivalence Relations on Types
+* Equality in Lazy Extensional Computation Systems / Howe's Computational Equality
 * Inductive Types and Coinductive Types
 * Identity Types / Proofs of Equality in Martin-Löf's Intensional Type Theory
 * Topological Spaces as Types / Points as Programs
