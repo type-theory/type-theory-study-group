@@ -29,7 +29,7 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 
 ##### Proposed future topics
 
-* Judgments / Meaning Explanations
+* Judgments /  Meaning Explanations
 * Abstract Syntax Trees / Abstract Binding Trees
 * The Untyped Lambda Calculus / Operational Semantics
 * The Simply Typed Lambda Calculus / Progress and Preservation
@@ -42,7 +42,7 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 * System F-omega / Type Operators
 * Martin-Löf's Extensional Type Theory / Constructive Mathematics and Computer Programming
 * Extensions to Extensional Type Theory / Quotient Types, Set Types and Partial Equivalence Relations on Types
-* Inductive Types / Coinductive Types
+* Inductive Types and Coinductive Types
 * Identity Types / Proofs of Equality in Martin-Löf's Intensional Type Theory
 * Topological Spaces as Types / Points as Programs
 * Intensional Proofs of Equality as Paths between Spaces
