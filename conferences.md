@@ -7,4 +7,5 @@ A list of conferences and events that may be of interest to type theory enthusia
 * [Principles of Programming Languages](http://conf.researchr.org/home/POPL-2016)
 * [Formal Structures for Computation and Deduction](http://fscd2016.dcc.fc.up.pt/)
 * [Types for Proofs and Programs](http://cs.ioc.ee/types15/)
+* [Interactive Theorem Proving](http://www.inf.kcl.ac.uk/staff/urbanc/itp-2015/)
 * [Workshop on Homotopy Type Theory and Univalent Foundations of Mathematics](http://www.fields.utoronto.ca/programs/scientific/15-16/homotopy-type/)
