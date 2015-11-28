@@ -2,17 +2,20 @@
 
 ##### Next meeting
 
-- When: November 13th, 6 pm EST
-- Where: [Hangouts on Air](https://plus.google.com/events/coaei8qku1ligmelabgukagvbpg)
-- Material: Special Topics on Abstract Binding Trees
-- Discussion Leaders: Jon Sterling
-- [Hackpad](https://ttsg.hackpad.com/Special-Topics-on-ABTs-with-Jon-Sterling-kH1ERkAFhv2)
+- To be announced.
 
 ##### Past Meetings
 
 ###### Meeting 1
 
-- When: November 13th, 6 pm EST
+- When: November 28th, 4:30 pm EST
+- Where: [Hangouts on Air](https://plus.google.com/events/coaei8qku1ligmelabgukagvbpg)
+- Material: Special Topics on Abstract Binding Trees
+- Discussion Leaders: Jon Sterling
+- [Video](https://youtu.be/jIre_aCCgWM)
+- [Hackpad](https://ttsg.hackpad.com/Special-Topics-on-ABTs-with-Jon-Sterling-kH1ERkAFhv2)
+
+- When: November 13th, 6:00 pm EST
 - Where: Hangouts on Air
 - Material: Ch 1 and 2 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
 - Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
