@@ -2,7 +2,11 @@
 
 ##### Next meeting
 
-- To be announced. Stay tuned!
+- When: November 13th, 6 pm EST
+- Where: [Hangouts on Air](https://plus.google.com/events/coaei8qku1ligmelabgukagvbpg)
+- Material: Special Topics on Abstract Binding Trees
+- Discussion Leaders: Jon Sterling
+- [Hackpad](https://ttsg.hackpad.com/Special-Topics-on-ABTs-with-Jon-Sterling-kH1ERkAFhv2)
 
 ##### Past Meetings
 
