@@ -6,7 +6,7 @@
 
 ##### Past Meetings
 
-###### Meeting 1
+###### Meeting 2
 
 - When: November 28th, 4:30 pm EST
 - Where: [Hangouts on Air](https://plus.google.com/events/coaei8qku1ligmelabgukagvbpg)
@@ -15,7 +15,7 @@
 - [Video](https://youtu.be/jIre_aCCgWM)
 - [Hackpad](https://ttsg.hackpad.com/Special-Topics-on-ABTs-with-Jon-Sterling-kH1ERkAFhv2)
 
-###### Meeting 2
+###### Meeting 1
 
 - When: November 13th, 6:00 pm EST
 - Where: Hangouts on Air
