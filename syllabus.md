@@ -11,8 +11,10 @@
 - When: November 28th, 4:30 pm EST
 - Where: [Hangouts on Air](https://plus.google.com/events/coaei8qku1ligmelabgukagvbpg)
 - Material: Special Topics on Abstract Binding Trees
-- Discussion Leaders: Jon Sterling
+- Discussion Leaders: Jon Sterling, Darin Morrison, Joseph Abrahamson
+- Notetakers: Ilan Godik
 - [Video](https://youtu.be/jIre_aCCgWM)
+- [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/meeting-2-notes.pdf)
 - [Hackpad](https://ttsg.hackpad.com/Special-Topics-on-ABTs-with-Jon-Sterling-kH1ERkAFhv2)
 
 ###### Meeting 1
@@ -24,5 +26,4 @@
 - Notetakers: Ilan Godik
 - [Video](https://www.youtube.com/watch?v=5JuOjqCZZTU)
 - [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/meeting-1-notes.pdf)
-- [Questions](https://github.com/type-theory/type-theory-study-group-2015/blob/master/meeting-1-questions.md)
 - [Hackpad](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-1-oBuYSKYx4CV)
