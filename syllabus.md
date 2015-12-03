@@ -4,6 +4,18 @@
 
 - To be announced.
 
+##### Meetings in planning
+
+###### Chapter 3 + 4 Q/A
+
+- When: TBA
+- Where: Hangouts on Air, TBA
+- Material: Ch 3 and 4 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
+- Discussion Leaders: TBA
+
+- Agenda
+  - ... 
+
 ##### Past Meetings
 
 ###### Meeting 2
