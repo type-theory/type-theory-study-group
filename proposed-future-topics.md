@@ -4,7 +4,6 @@
 * Abstract Syntax Trees / Abstract Binding Trees
 * The Untyped Lambda Calculus / Operational Semantics
 * The Simply Typed Lambda Calculus / Progress and Preservation
-* Type Inference / Bidirectional Typechecking for the Simply Typed Lambda Calculus
 * Propositions as Types / Proofs as Programs
 * Simple Type Theory / Extensions to the Simply Typed Lambda Calculus
 * System T / Primitive Recursion
