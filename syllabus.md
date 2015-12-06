@@ -2,19 +2,17 @@
 
 ##### Next meeting
 
-- To be announced.
-
-##### Meetings in planning
-
-###### Chapter 3 + 4 Q/A
+###### Meeting 3
 
 - When: TBA
 - Where: Hangouts on Air, TBA
 - Material: Ch 3 and 4 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
 - Discussion Leaders: TBA
-
-- Agenda
-  - ... 
+- Notetakers: TBA
+- Supplementary Readings:
+  - [The Twelf Project](http://twelf.org/wiki/Main_Page) 
+  - [Logical Frameworks - A Brief Introduction](www.cs.cmu.edu/~fp/papers/mdorf01.pdf)
+  - [Mechanizing Metatheory in a Logical Framework](https://www.cs.cmu.edu/~rwh/papers/mech/jfp07.pdf)
 
 ##### Past Meetings
 
