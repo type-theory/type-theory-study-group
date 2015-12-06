@@ -1,4 +1,4 @@
-### Type Theory Study Group 2015
+### Type Theory Study Group
 
 ##### Overview
 
