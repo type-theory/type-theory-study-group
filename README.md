@@ -2,7 +2,7 @@
 
 ##### Overview
 
-An online study group, open to all, dedicated to learning Type Theory.
+An online study group, open to all, dedicated to learning type theory.
 
 The initial plan is to read Bob Harper's Practical Foundations of Programming Languages (2nd Edition). This book is only available as an [online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf).
 
