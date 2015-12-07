@@ -13,6 +13,7 @@
   - [The Twelf Project](http://twelf.org/wiki/Main_Page) 
   - [Logical Frameworks - A Brief Introduction](www.cs.cmu.edu/~fp/papers/mdorf01.pdf)
   - [Mechanizing Metatheory in a Logical Framework](https://www.cs.cmu.edu/~rwh/papers/mech/jfp07.pdf)
+  - [Type Theory and its Meaning Explanations](https://github.com/jonsterling/type-theory-and-its-meaning-explanations)
 
 ##### Past Meetings
 
