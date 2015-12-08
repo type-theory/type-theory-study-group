@@ -9,6 +9,7 @@
 - Material: Ch 3 and 4 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
 - Discussion Leaders: TBA
 - Notetakers: TBA
+- [Hackpad](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-3-Smo7poCD2ql)
 - Supplementary Readings:
   - [The Twelf Project](http://twelf.org/wiki/Main_Page) 
   - [Logical Frameworks - A Brief Introduction](www.cs.cmu.edu/~fp/papers/mdorf01.pdf)
