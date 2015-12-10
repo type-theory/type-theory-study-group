@@ -4,10 +4,10 @@
 
 ###### Meeting 3
 
-- When: TBA
+- When: December 12th, 4:30 pm EST
 - Where: Hangouts on Air, TBA
 - Material: Ch 3 and 4 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
-- Discussion Leaders: TBA
+- Discussion Leaders: Danny Gratzer, Mark Farrell
 - Notetakers: TBA
 - [Hackpad](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-3-Smo7poCD2ql)
 
