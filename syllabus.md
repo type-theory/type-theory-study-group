@@ -5,7 +5,7 @@
 ###### Meeting 3
 
 - When: December 12th, 4:30 pm EST
-- Where: Hangouts on Air, TBA
+- Where: [Hangouts on Air](https://plus.google.com/events/c0j6ga5cuuf068op5lf28f0t0ls?hl=en)
 - Material: Ch 3 and 4 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
 - Discussion Leaders: Danny Gratzer, Mark Farrell
 - Notetakers: TBA
