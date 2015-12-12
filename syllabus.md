@@ -9,6 +9,7 @@
 - Material: Ch 3 and 4 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
 - Discussion Leaders: Danny Gratzer, Mark Farrell
 - Notetakers: TBA
+- [Video](https://www.youtube.com/watch?v=kLKAV2gB7Ho)
 - [Hackpad](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-3-Smo7poCD2ql)
 
 ##### Past Meetings
