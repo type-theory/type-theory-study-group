@@ -8,7 +8,7 @@
 - Where: [Hangouts on Air](https://plus.google.com/events/c0j6ga5cuuf068op5lf28f0t0ls?hl=en)
 - Material: Ch 3 and 4 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
 - Discussion Leaders: Danny Gratzer, Mark Farrell
-- Notetakers: TBA
+- Notetakers: Idan Godik
 - [Video](https://www.youtube.com/watch?v=kLKAV2gB7Ho)
 - [Notes](https://github.com/type-theory/type-theory-study-group/blob/master/meeting-3-notes.pdf)
 - [Hackpad](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-3-Smo7poCD2ql)
