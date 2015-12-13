@@ -10,6 +10,7 @@
 - Discussion Leaders: Danny Gratzer, Mark Farrell
 - Notetakers: TBA
 - [Video](https://www.youtube.com/watch?v=kLKAV2gB7Ho)
+- [Notes](https://github.com/type-theory/type-theory-study-group/blob/master/meeting-3-notes.pdf)
 - [Hackpad](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-3-Smo7poCD2ql)
 
 ##### Past Meetings
@@ -22,7 +23,7 @@
 - Discussion Leaders: Jon Sterling, Darin Morrison, Joseph Abrahamson
 - Notetakers: Ilan Godik
 - [Video](https://youtu.be/jIre_aCCgWM)
-- [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/meeting-2-notes.pdf)
+- [Notes](https://github.com/type-theory/type-theory-study-group/blob/master/meeting-2-notes.pdf)
 - [Hackpad](https://ttsg.hackpad.com/Special-Topics-on-ABTs-with-Jon-Sterling-kH1ERkAFhv2)
 
 ###### Meeting 1
@@ -33,5 +34,5 @@
 - Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
 - Notetakers: Ilan Godik
 - [Video](https://www.youtube.com/watch?v=5JuOjqCZZTU)
-- [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/meeting-1-notes.pdf)
+- [Notes](https://github.com/type-theory/type-theory-study-group/blob/master/meeting-1-notes.pdf)
 - [Hackpad](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-1-oBuYSKYx4CV)
