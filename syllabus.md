@@ -2,6 +2,10 @@
 
 ##### Next meeting
 
+- To be announced. Stay tuned!
+
+##### Past Meetings
+
 ###### Meeting 3
 
 - When: December 12th, 4:30 pm EST
@@ -12,8 +16,6 @@
 - [Video](https://www.youtube.com/watch?v=kLKAV2gB7Ho)
 - [Notes](https://github.com/type-theory/type-theory-study-group/blob/master/meeting-3-notes.pdf)
 - [Hackpad](https://ttsg.hackpad.com/Type-Theory-Study-Group-Meeting-3-Smo7poCD2ql)
-
-##### Past Meetings
 
 ###### Meeting 2
 
