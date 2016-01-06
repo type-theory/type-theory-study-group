@@ -10,8 +10,6 @@ The Type Theory Study Group has a [code of conduct](https://github.com/type-theo
 
 There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-2015/blob/master/syllabus.md) with dates for the chapters we're reading.
 
-[Why learn type theory?](why-learn-type-theory.md)
-
 ##### Connect with us
 
   * [Type Theory Study Group](https://groups.google.com/forum/#!forum/type-theory-study-group) on Google Groups
