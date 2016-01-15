@@ -19,6 +19,7 @@ There is a  [syllabus](https://github.com/type-theory/type-theory-study-group-20
 ##### Local study groups
 
 * [Sydney Type Theory](http://www.meetup.com/Sydney-Type-Theory/)
+* [Boston Type Theory](http://www.meetup.com/Boston-Area-Programming-Languages-and-Type-Theory/)
 
 ##### Other resources
 
