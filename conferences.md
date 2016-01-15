@@ -2,6 +2,7 @@
 
 A list of conferences and events that may be of interest to type theory enthusiasts. Please contribute!
 
+* [PrlConf](http://www.jonprl.org/prlconf.html)
 * [LambdaConf](http://www.degoesconsulting.com/lambdaconf-2015/)
 * [ComposeConf](http://www.composeconference.org/)
 * [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
