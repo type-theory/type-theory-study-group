@@ -1,23 +1,13 @@
-##### Proposed future topics
+##### Proposed future topics and agenda
 
-* Lambda Calculus and Variable Binding/Substitution
-* Abstract Binding Trees
-* Logical Frameworks
-* Constructive Logic
-* Simple Type Theory
-* Propositions as Types and Proofs as Programs
-* System T and Primitive Recursion on the Natural Numbers
-* Dana Scott's Logic for Computable Functions
-* Gordon Plotkin's Programming Computable Functions and General Recursion
-* System F and Parametricity
-* Inductive and Coinductive Data Types
-* The Bar Induction Principle
-* Linear Type Theory, Game Semantics and Vector Space Semantics
-* Zermelo Type Theory
-* Proof Refinement Logics and Computational Type Theories
-* Categorical Semantics of Type Theories
-* Synthetic Topology and Type Theory
-* Type Theories as Internal Languages of Toposes
-* Homotopy-theoretic Models of Type Theory
-* Higher Type Theory and Alexander Grothendieck's Desire for a Formal Axiomatic Theory of Infinity Groupoids
+1. Lambda Calculus, Abstract Binding Trees, Logical Frameworks, and Metatheorical Preliminaries
+2. Intuitionistic Logic, Simple Type Theory, Heyting Algebras, and Cartesian Closed Categories
+3. Propositions as Types, Proofs as Programs, and Formal Dependently-Typed Lambda Calculi
+4. System F, Type-Safety, and Parametricity
+5. Finite Data Types, Infinite Data Types, and the Bar Induction Principle
+6. Linear Type Theory, Game Semantics and Vector Space Semantics
+7. Set-Theoretic Perspectives on Type Theories, Types as Generalized Topological Spaces, and Elementary Topos Theory
+8. Dana Scott's Logic for Computable Functions, and Meaning Theory
+9. Proof Refinement Logics, Computational Type Theories, and Interesting Proofs in Open-Ended Computation Systems
+10. Homotopy-theoretic Models of Type Theory, Higher Type Theory, and Achieving Alexander Grothendieck's Goal for a Formal Axiomatic Theory of Infinity Groupoids
 
