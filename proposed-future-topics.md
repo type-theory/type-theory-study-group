@@ -12,8 +12,11 @@
 * System F and Parametricity
 * Inductive and Coinductive Data Types
 * Linear Type Theory, Game Semantics and Vector Space Semantics
+* Set-Theoretic Semantics of Type Theories
 * Proof Refinement Logics and Computational Type Theories
 * Categorical Semantics of Type Theories
 * Synthetic Topology and Type Theory
+* Type Theories as Internal Languages of Toposes
 * Homotopy-theoretic Models of Type Theory
 * Higher Type Theory and Alexander Grothendieck's Idea for a Formal Axiomatic Theory of Infinity Groupoids
+
