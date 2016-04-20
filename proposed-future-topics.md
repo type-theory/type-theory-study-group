@@ -12,6 +12,7 @@
 * System F and Parametricity
 * Inductive and Coinductive Data Types
 * Linear Type Theory, Game Semantics and Vector Space Semantics
+* Proof Refinement Logics and Computational Type Theories
 * Categorical Semantics of Type Theories
 * Synthetic Topology and Type Theory
 * Homotopy-theoretic Models of Type Theory
