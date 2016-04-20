@@ -19,5 +19,5 @@
 * Synthetic Topology and Type Theory
 * Type Theories as Internal Languages of Toposes
 * Homotopy-theoretic Models of Type Theory
-* Higher Type Theory and Alexander Grothendieck's Idea for a Formal Axiomatic Theory of Infinity Groupoids
+* Higher Type Theory and Alexander Grothendieck's Desire for a Formal Axiomatic Theory of Infinity Groupoids
 
