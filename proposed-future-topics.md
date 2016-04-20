@@ -11,8 +11,9 @@
 * Gordon Plotkin's Programming Computable Functions and General Recursion
 * System F and Parametricity
 * Inductive and Coinductive Data Types
+* The Bar Induction Principle
 * Linear Type Theory, Game Semantics and Vector Space Semantics
-* Set-Theoretic Semantics of Type Theories
+* Zermelo Type Theory
 * Proof Refinement Logics and Computational Type Theories
 * Categorical Semantics of Type Theories
 * Synthetic Topology and Type Theory
